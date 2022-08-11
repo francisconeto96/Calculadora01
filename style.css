@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+    
+}
+
+#resultado{
+    background-color:darkgrey;
+    height: 50px;
+    margin-bottom: 20px;
+    color: black;
+    width: 340px;
+    border-radius: 5px;
+}
+#mult{
+    background-color:darkorange;
+}
+#sub{
+    background-color: darkorange; 
+}
+#div{
+    background-color: darkorange; 
+}
+#igual{
+    background-color: darkorange; 
+}
+#somar{
+    background-color: darkorange; 
+}
+#c{
+    background-color: darkorange; 
+}
+input[type=button]{
+    width: 75px;
+    height: 75px;
+    background-color: rgb(65, 65, 65);
+    border-radius: 50%;
+    margin: 2px;
+    color: aliceblue;
+    margin-top: 5px;
+    
+
+}
+
+.fundo{
+    background-color: black;
+    width: 345px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    position:relative;
+    top: 50%;
+    transform: translateY(15%);
+} 
